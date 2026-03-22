@@ -1,18 +1,18 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║    █████╗ ███╗   ███╗  ██████╗  ██████╗ ██╗  ██╗               ║
-║   ██╔══██╗████╗ ████║ ██╔═══██╗██╔════╝ ██║  ██║               ║
-║   ███████║██╔████╔██║ ██║   ██║██║  ███╗███████║               ║
-║   ██╔══██║██║╚██╔╝██║ ██║   ██║██║   ██║██╔══██║               ║
-║   ██║  ██║██║ ╚═╝ ██║ ╚██████╔╝╚██████╔╝██║  ██║               ║
-║   ╚═╝  ╚═╝╚═╝     ╚═╝  ╚═════╝  ╚═════╝╚═╝  ╚═╝               ║
-║                                                                  ║
-║      🧠  GENERATIVE AI ENGINEER  ·  MS CS @ ASU  🎓             ║
-║      📍  Tempe, AZ  |  Open to SDE / AI Roles 2026              ║
-╚══════════════════════════════════════════════════════════════════╝
+      ╔══════════════════════════════════════════════════════════════════╗
+      ║                                                                  ║
+                       █████╗ ███╗   ███╗  ██████╗  ██████╗ ██╗  ██╗                
+                      ██╔══██╗████╗ ████║ ██╔═══██╗██╔════╝ ██║  ██║                
+                      ███████║██╔████╔██║ ██║   ██║██║  ███╗███████║                
+                      ██╔══██║██║╚██╔╝██║ ██║   ██║██║   ██║██╔══██║                
+                      ██║  ██║██║ ╚═╝ ██║ ╚██████╔╝╚██████╔╝██║  ██║                
+                    ╚═╝  ╚═╝╚═╝     ╚═╝  ╚═════╝  ╚═════╝╚═╝  ╚═╝                
+                                                                          
+                    🧠  GENERATIVE AI ENGINEER  ·  MS CS @ ASU  🎓              
+                    📍  Tempe, AZ  |  Open to SDE / AI Roles 2026               
+      ╚══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -25,7 +25,7 @@
 
 ## ⚡ SYSTEM STATUS
 
-<div align="center">
+<div align="">
 
 ```ini
 [IDENTITY]
@@ -158,18 +158,6 @@ If you're building something hard in AI, I want to be in that room.
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║          [ASU COURSE] CLOUD-NATIVE AWS MULTI-TIER ARCH           ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  INFRA    : EC2 Auto Scaling · ALB · S3 · DynamoDB               ║
-║  RESILIENCE: Multi-AZ failover · IAM least-privilege             ║
-║  OBS      : CloudWatch log aggregation · full observability      ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
 </div>
 
 ---
@@ -197,11 +185,11 @@ If you're building something hard in AI, I want to be in that room.
 ║                         INDUSTRY TRACK                           ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║                                                                  ║
-║  🏥  AI Integration Eng @ ASU Edson College (Mar 2026–Now)       ║
-║  💼  AI Engineer @ IBM (Dec 2023–Jul 2025) — WatsonX Stack       ║
-║  🔭  Grad Research Assistant @ ASU (Jan 2026–Present)            ║
-║  🎓  MS CS @ ASU (GPA 3.78) — Class of 2027                      ║
-║  🎓  BE Comp Eng (GPA 3.83) — Terna Eng College, Mumbai          ║
+║  [+]  AI Integration Eng @ ASU Edson College (Mar 2026–Present)  ║
+║  [+]  Grad Research Assistant @ ASU (Jan 2026–Present)           ║
+║  [+]  AI Engineer @ IBM (Dec 2023–Jul 2025) — WatsonX Stack      ║
+║  [+]  MS CS @ ASU (GPA 3.78) — Class of 2027                     ║
+║  [+]  BE Comp Eng (GPA 3.83) — Terna Eng College, Mumbai         ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
@@ -211,8 +199,9 @@ If you're building something hard in AI, I want to be in that room.
 ║                         CERTIFICATIONS                           ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║                                                                  ║
-║  ✅  Microsoft Certified Python (2021)                           ║
-║  ✅  Atos Bootcamp: AI, ML & Cloud (2022)                        ║
+║  [+]  Microsoft Certified Python (2021)                          ║
+║  [+]  Atos Bootcamp: AI, ML & Cloud (2022)                       ║
+║  [+]  Agentic AI — O'Reilly                                      ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
@@ -233,7 +222,6 @@ If you're building something hard in AI, I want to be in that room.
 | **PoC Cycle Time** | 4–6 weeks per client delivery |
 | **IBM Disclosure** | Patent Disclosure Prior Art — Multimodal RAG Q&A |
 | **Academic GPA** | 3.78 (MS) · 3.83 (BE) |
-| **Cloud Deployments** | Docker + Kubernetes, multi-AZ AWS |
 
 </div>
 
@@ -255,7 +243,7 @@ If you're building something hard in AI, I want to be in that room.
 ║  On my radar:                                                    ║
 ║  ├── Multimodal AI (text + video + physiological streams)        ║
 ║  ├── Computational social science + AI intersections             ║
-║  └── Open-source agentic AI framework contributions             ║
+║  └── Open-source agentic AI framework contributions              ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -269,7 +257,7 @@ If you're building something hard in AI, I want to be in that room.
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  AVAILABILITY : Open to SDE · AI/ML Eng · Research (2026)        ║
+║  AVAILABILITY : Open to SDE · AI/ML Eng · Summer/Fall (2026)     ║
 ║  WORK AUTH    : CPT / OPT Eligible ✅                            ║
 ║  INTERESTS    : Generative AI · Agentic Systems · Backend Eng    ║
 ║  GOAL         : Build AI that ships to real users, real impact   ║
