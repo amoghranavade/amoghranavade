@@ -10,8 +10,8 @@
                       ██║  ██║██║ ╚═╝ ██║ ╚██████╔╝╚██████╔╝██║  ██║                
                     ╚═╝  ╚═╝╚═╝     ╚═╝  ╚═════╝  ╚═════╝╚═╝  ╚═╝                
                                                                           
-                    🧠  GENERATIVE AI ENGINEER  ·  MS CS @ ASU  🎓              
-                    📍  Tempe, AZ  |  Open to SDE / AI Roles 2026               
+                      GENERATIVE AI ENGINEER  ·  MS CS @ ASU                
+                    Tempe, AZ  |  Open to SDE / AI Roles 2026               
       ╚══════════════════════════════════════════════════════════════════╝
 ```
 
