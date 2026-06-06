@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="476" height="34" viewBox="0 0 476 34" role="img" aria-label="Work Authorization CPT slash OPT Eligible">
+  <rect x="1" y="1" width="474" height="32" rx="8" fill="#0d1117" stroke="#ffffff" stroke-width="2"/>
+  <rect x="1" y="1" width="236" height="32" rx="8" fill="#6b7280"/>
+  <path d="M237 1h238a8 8 0 0 1 8 8v16a8 8 0 0 1-8 8H237z" fill="#15803d"/>
+  <line x1="237" y1="6" x2="237" y2="28" stroke="#ffffff" stroke-width="2"/>
+  <text x="119" y="22" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="13" font-weight="700" letter-spacing="0.8">WORK AUTHORIZATION</text>
+  <text x="356" y="22" fill="#ffffff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="13" font-weight="700" letter-spacing="0.8">CPT / OPT ELIGIBLE</text>
+</svg>

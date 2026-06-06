@@ -5,17 +5,17 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/amoghranavade"><img src="https://img.shields.io/badge/GitHub-amoghranavade-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/amogh-ranavade-080172199"><img src="https://img.shields.io/badge/LinkedIn-Amogh_Ranavade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:aranavad@asu.edu"><img src="https://img.shields.io/badge/Email-aranavad%40asu.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/amoghranavade"><img src="./assets/badges/github.svg" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/amogh-ranavade-080172199"><img src="./assets/badges/linkedin.svg" alt="LinkedIn"></a>
+  <a href="mailto:aranavad@asu.edu"><img src="./assets/badges/email.svg" alt="Email"></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Tempe%2C%20AZ-USA-111827?style=flat-square" alt="Location">
-  <img src="https://img.shields.io/badge/MS%20CS-Arizona%20State%20University-maroon?style=flat-square" alt="ASU">
-  <img src="https://img.shields.io/badge/IBM-Alumni-052FAD?style=flat-square" alt="IBM Alumni">
-  <img src="https://img.shields.io/badge/Open%20to-2026%20Roles-0f766e?style=flat-square" alt="Open to 2026 roles">
-  <img src="https://img.shields.io/badge/Work%20Authorization-CPT%20%2F%20OPT%20Eligible-15803d?style=flat-square" alt="Work authorization">
+  <img src="./assets/badges/location.svg" alt="Location">
+  <img src="./assets/badges/asu.svg" alt="ASU">
+  <img src="./assets/badges/ibm.svg" alt="IBM Alumni">
+  <img src="./assets/badges/open-to.svg" alt="Open to 2026 roles">
+  <img src="./assets/badges/work-auth.svg" alt="Work authorization">
 </p>
 
 ## About Me
