@@ -5,17 +5,17 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/amoghranavade"><img src="./assets/badges/github.svg" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/amogh-ranavade-080172199"><img src="./assets/badges/linkedin.svg" alt="LinkedIn"></a>
-  <a href="mailto:aranavad@asu.edu"><img src="./assets/badges/email.svg" alt="Email"></a>
+  <a href="https://github.com/amoghranavade"><img src="./assets/badges/github.svg" alt="GitHub" height="30"></a>
+  <a href="https://linkedin.com/in/amogh-ranavade-080172199"><img src="./assets/badges/linkedin.svg" alt="LinkedIn" height="30"></a>
+  <a href="mailto:aranavad@asu.edu"><img src="./assets/badges/email.svg" alt="Email" height="30"></a>
 </p>
 
 <p align="center">
-  <img src="./assets/badges/location.svg" alt="Location">
-  <img src="./assets/badges/asu.svg" alt="ASU">
-  <img src="./assets/badges/ibm.svg" alt="IBM Alumni">
-  <img src="./assets/badges/open-to.svg" alt="Open to 2026 roles">
-  <img src="./assets/badges/work-auth.svg" alt="Work authorization">
+  <img src="./assets/badges/location.svg" alt="Location" height="20">
+  <img src="./assets/badges/asu.svg" alt="ASU" height="20">
+  <img src="./assets/badges/ibm.svg" alt="IBM Alumni" height="20">
+  <img src="./assets/badges/open-to.svg" alt="Open to 2026 roles" height="20">
+  <img src="./assets/badges/work-auth.svg" alt="Work authorization" height="20">
 </p>
 
 ## About Me
@@ -75,10 +75,9 @@ If the problem involves LLMs, backend systems, evaluation, deployment, and real 
 
 ## GitHub Snapshot
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amoghranavade&show_icons=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoghranavade&layout=compact&hide_border=true&title_color=00BFFF&text_color=c9d1d9&bg_color=0d1117" alt="Top languages">
-</p>
+- Building mostly in `Python`, `JavaScript`, and backend-heavy AI tooling
+- Repositories focused on agentic workflows, AI systems, APIs, and applied research
+- Strongest work is in shipped systems and end-to-end engineering, not vanity metrics
 
 ## Current Focus
 
