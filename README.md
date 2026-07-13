@@ -74,22 +74,6 @@ My favorite problems sit at the intersection of language models, useful software
 - Published research in `IJSREM`
 - Applied AI research across passive sensing, psychophysiology, clinical neuro AI, and virtual humans
 
-## Development Stats
-
-Live coding stats will render here once the GitHub Action is connected to WakaTime.
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-## Now
-
-```text
-Building AI that is useful, measurable, and deployable.
-
-Next up: stronger evaluations, better observability, and systems that make
-the jump from impressive prototype to dependable product.
-```
-
 ## Connect
 
 <p align="center">
