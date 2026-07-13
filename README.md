@@ -1,7 +1,7 @@
-# Hi, I'm Amogh Ranavade
+# Amogh Ranavade
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1200&color=00BFFF&center=true&vCenter=true&width=980&lines=Generative+AI+Engineer+%7C+MS+Computer+Science+%40+ASU;2%2B+years+building+production+AI+systems+at+IBM;Agentic+workflows+%7C+RAG+%7C+Fine-tuning+%7C+MCP;Open+to+SDE+%2F+AI+%2F+ML+roles+for+2026">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1400&color=00BFFF&center=true&vCenter=true&width=900&lines=Generative+AI+Engineer+%7C+MS+CS+%40+ASU;Building+AI+systems+that+survive+production;Agentic+workflows+%7C+RAG+%7C+Fine-tuning+%7C+MCP;Open+to+SDE+%2F+AI+%2F+ML+roles+in+2026" alt="Typing introduction">
 </p>
 
 <p align="center">
@@ -18,82 +18,84 @@
   <img src="./assets/badges/work-auth.svg" alt="Work authorization" height="20">
 </p>
 
-## About Me
+> I build AI systems that save time, reduce cost, and hold up when real users touch them.
 
-I am a Generative AI engineer and researcher focused on building systems that move beyond demos into measurable production impact.
+## Impact At A Glance
 
-At IBM, I spent 2+ years shipping enterprise AI systems across RAG, agentic workflows, and multimodal use cases. At Arizona State University, I now work across applied research and technical leadership, building agentic AI systems for healthcare and operational workflows.
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><strong>20+</strong><br>production AI apps</td>
+      <td align="center"><strong>~80%</strong><br>faster document retrieval</td>
+      <td align="center"><strong>~30%</strong><br>lower inference cost</td>
+      <td align="center"><strong>2+ years</strong><br>shipping AI at IBM</td>
+    </tr>
+  </table>
+</div>
 
-If the problem involves LLMs, backend systems, evaluation, deployment, and real users, that is the kind of room I want to be in.
+## What I Do
 
-## Impact Snapshot
+I am a Generative AI engineer and researcher working across agentic systems, RAG, multimodal AI, backend infrastructure, and evaluation. At IBM, I shipped enterprise AI systems for real client workflows. At Arizona State University, I now work across applied research and technical leadership in healthcare and operational AI.
 
-| Area | Outcome |
+My favorite problems sit at the intersection of language models, useful software, measurable outcomes, and deployment reality.
+
+## Current Build Queue
+
+| Focus | What it looks like |
 | --- | --- |
-| Enterprise RAG | Reduced document retrieval time by ~80% for IBM clients |
-| AI Delivery | Built 20+ production AI applications across client engagements |
-| Cost Optimization | Cut inference costs by ~30% through model and pipeline tuning |
-| Innovation | Filed IBM patent disclosure prior art for a multimodal RAG Q&A system |
-| Research | Contributing to passive mobile sensing and health AI at ASU |
+| Agentic automation | Contract and research workflows with `LangGraph`, `LangChain`, and document intelligence |
+| Health AI | Passive sensing with GPS, Bluetooth, Wi-Fi, and accelerometer data |
+| Production GenAI | Observability, evaluation, cost control, APIs, containers, and Kubernetes |
+| Multimodal systems | Connecting text, behavioral signals, and real-world outcomes |
 
-## What I'm Building Now
+## Experience
 
-- Agentic contract and workflow automation with `LangGraph`, `LangChain`, and LLM-based document understanding
-- Passive mobile sensing pipelines using GPS, Bluetooth, Wi-Fi, and accelerometer data for health interventions
-- Production-minded GenAI systems with stronger observability, evaluation, and deployment discipline
-- Multimodal AI workflows that connect text, behavioral signals, and real-world outcomes
+| When | Where | What I worked on |
+| --- | --- | --- |
+| 2026 - now | ASU Edson College | AI integration, workflow automation, and technical leadership |
+| 2026 - now | ASU Research | Agentic AI for passive health sensing and mood classification under Dr. Ming Zhao |
+| 2023 - 2025 | IBM | Enterprise RAG, agentic assistants, WatsonX services, and multimodal AI |
 
-## Experience At A Glance
+## Technical Range
 
-### Arizona State University
-- `AI Integration Engineer, Edson College`  
-  Leading AI-driven workflow automation and applied systems that support administrative and research operations.
-- `Graduate Research Assistant`  
-  Building agentic AI systems for passive health sensing, mood classification, and real-time intervention research under Dr. Ming Zhao.
+<p align="center">
+  <code>Python</code> <code>Java</code> <code>FastAPI</code> <code>Docker</code> <code>Kubernetes</code>
+  <br><br>
+  <code>LangGraph</code> <code>LangChain</code> <code>CrewAI</code> <code>RAG</code> <code>MCP</code> <code>WatsonX</code>
+  <br><br>
+  <code>AWS</code> <code>IBM Cloud</code> <code>PostgreSQL</code> <code>MongoDB</code> <code>ElasticSearch</code>
+  <br><br>
+  <code>React</code> <code>Streamlit</code> <code>D3.js</code> <code>Plotly</code> <code>Power BI</code>
+</p>
 
-### IBM
-- `AI Engineer`  
-  Built RAG pipelines, agentic assistants, and enterprise AI services on the WatsonX stack for real client deployments.
-- `Patent Disclosure Prior Art`  
-  Contributed prior art for a retrieval-augmented, generation-based, multimodal question-answering solution.
+## Research And Innovation
 
-## Toolbox
+- IBM patent disclosure prior art for a retrieval-augmented, generation-based multimodal Q&A solution
+- Published research in `IJSREM`
+- Applied AI research across passive sensing, psychophysiology, clinical neuro AI, and virtual humans
 
-| AI / ML | Backend | Cloud / Data | Frontend / Viz |
-| --- | --- | --- | --- |
-| `LangGraph` `LangChain` `CrewAI` | `Python` `FastAPI` `Flask` | `AWS` `IBM Cloud` | `React` `Streamlit` |
-| `RAG` `MCP` `WatsonX` | `Java` `SQL` `REST APIs` | `PostgreSQL` `MongoDB` | `D3.js` `Plotly` |
-| `LoRA` `PEFT` `Embeddings` | `Docker` `Kubernetes` `CI/CD` | `ElasticSearch` `Neo4j` `Firebase` | `Power BI` `Jupyter` |
-| `Prompt Engineering` `A/B Testing` | `Swagger` `Postman` | `CloudWatch` `DynamoDB` | `HTML` `CSS` `JavaScript` |
+## Development Stats
 
-## Selected Highlights
+Live coding stats will render here once the GitHub Action is connected to WakaTime.
 
-- Shipped enterprise-grade RAG pipelines over large document repositories with measurable business impact
-- Delivered multi-agent AI workflows for summarization, code generation, sentiment analysis, and multimodal tasks
-- Worked across the full stack of AI delivery: prompt design, fine-tuning, orchestration, APIs, containers, deployment, and evaluation
-- Published research work in `IJSREM`
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-## GitHub Snapshot
-
-- Building mostly in `Python`, `JavaScript`, and backend-heavy AI tooling
-- Repositories focused on agentic workflows, AI systems, APIs, and applied research
-- Strongest work is in shipped systems and end-to-end engineering, not vanity metrics
-
-## Current Focus
+## Now
 
 ```text
 Building AI that is useful, measurable, and deployable.
 
-- Agentic systems for real workflows
-- Multimodal RAG and document intelligence
-- Health AI and passive sensing research
-- Reliable backend infrastructure for GenAI products
+Next up: stronger evaluations, better observability, and systems that make
+the jump from impressive prototype to dependable product.
 ```
 
-## Let's Connect
+## Connect
 
-- LinkedIn: [amogh-ranavade-080172199](https://linkedin.com/in/amogh-ranavade-080172199)
-- Email: [aranavad@asu.edu](mailto:aranavad@asu.edu)
-- GitHub: [@amoghranavade](https://github.com/amoghranavade)
-
-> I do not build AI demos for screenshots. I like building systems that save time, reduce cost, and hold up in production.
+<p align="center">
+  <a href="https://linkedin.com/in/amogh-ranavade-080172199">LinkedIn</a>
+  &nbsp; | &nbsp;
+  <a href="mailto:aranavad@asu.edu">Email</a>
+  &nbsp; | &nbsp;
+  <a href="https://github.com/amoghranavade">GitHub</a>
+</p>
