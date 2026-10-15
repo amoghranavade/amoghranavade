@@ -20,8 +20,6 @@
 
 > I build AI systems that save time, reduce cost, and hold up when real users touch them.
 
-## Impact At A Glance
-
 <div align="center">
   <table>
     <tr>
