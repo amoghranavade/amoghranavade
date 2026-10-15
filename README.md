@@ -76,7 +76,7 @@ My favorite problems sit at the intersection of language models, useful software
 
 ## Research And Innovation
 
-- IBM patent disclosure prior art for a retrieval-augmented, generation-based multimodal Q&A solution
+- IBM prior-art publication describing a retrieval-augmented, generation-based multimodal Q&A solution
 - Published research in `IJSREM`
 - Applied AI research across passive sensing, psychophysiology, clinical neuro AI, and virtual humans
 
