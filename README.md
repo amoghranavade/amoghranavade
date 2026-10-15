@@ -1,12 +1,14 @@
-# Amogh Ranavade
+<h1 align="center">Amogh Ranavade</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1400&color=00BFFF&center=true&vCenter=true&width=900&lines=Generative+AI+Engineer+%7C+MS+CS+%40+ASU;Building+AI+systems+that+survive+production;Agentic+workflows+%7C+RAG+%7C+Fine-tuning+%7C+MCP;Open+to+full-time+SDE+%2F+AI+%2F+ML+new-grad+roles+in+2027" alt="Typing introduction">
+  <strong>Generative AI Engineer &middot; M.S. Computer Science @ ASU</strong><br>
+  <samp>Building AI systems that survive production</samp>
 </p>
 
 <p align="center">
   <a href="https://github.com/amoghranavade"><img src="./assets/badges/github.svg" alt="GitHub" height="30"></a>
   <a href="https://linkedin.com/in/amogh-ranavade-080172199"><img src="./assets/badges/linkedin.svg" alt="LinkedIn" height="30"></a>
+  <a href="https://amoghranavade.com"><img src="./assets/badges/portfolio.svg" alt="Portfolio" height="30"></a>
   <a href="mailto:aranavad@asu.edu"><img src="./assets/badges/email.svg" alt="Email" height="30"></a>
 </p>
 
@@ -18,19 +20,24 @@
   <img src="./assets/badges/work-auth.svg" alt="Work authorization" height="20">
 </p>
 
-> I build AI systems that save time, reduce cost, and hold up when real users touch them.
+<p align="center">
+  <strong>Agentic AI</strong> &middot; RAG &middot; Multimodal systems &middot; Evaluation &middot; Cloud delivery
+</p>
 
-Currently targeting full-time new-grad roles in software engineering, AI/ML engineering, and machine learning for 2027.
+<blockquote>
+  <p>I build AI systems that save time, reduce cost, and hold up when real users touch them.</p>
+  <p><strong>Currently targeting full-time new-grad roles in software engineering, AI/ML engineering, and machine learning for 2027.</strong></p>
+</blockquote>
 
 ## Impact At A Glance
 
 <div align="center">
   <table>
     <tr>
-      <td align="center"><strong>20+</strong><br>production AI apps</td>
-      <td align="center"><strong>~80%</strong><br>faster document retrieval</td>
-      <td align="center"><strong>~30%</strong><br>lower inference cost</td>
-      <td align="center"><strong>99.3%</strong><br>virtual patient accuracy</td>
+      <td align="center" width="25%"><strong>20+</strong><br><sub>production AI apps</sub></td>
+      <td align="center" width="25%"><strong>~80%</strong><br><sub>faster document retrieval</sub></td>
+      <td align="center" width="25%"><strong>~30%</strong><br><sub>lower inference cost</sub></td>
+      <td align="center" width="25%"><strong>99.3%</strong><br><sub>virtual patient accuracy</sub></td>
     </tr>
   </table>
 </div>
